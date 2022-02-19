@@ -518,7 +518,7 @@ section.banner {
   bottom: 20px;
   left: 20px;
   z-index: 9;
-  color: #fff;
+  color: rgb(11, 174, 90);
 }
 
 .popular-places .popular-item .thumb .text-content h4 {
